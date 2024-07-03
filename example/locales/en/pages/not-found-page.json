@@ -1,0 +1,8 @@
+{
+  "not-found-page": {
+    "title": "Not Found",
+    "oops-went-wrong": "Oops! Something went wrong!",
+    "looking-for": "The page you are looking for was moved, removed, renamed or might never existed",
+    "to-dashboard-page": "To Main Page"
+  }
+}

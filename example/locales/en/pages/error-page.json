@@ -1,0 +1,7 @@
+{
+  "error-page": {
+    "title": "Oops! Something went wrong!",
+    "error": "An error occured, please try again later. We are already working on this problem",
+    "to-dashboard-page": "To Main Page"
+  }
+}

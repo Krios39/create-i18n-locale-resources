@@ -1,0 +1,12 @@
+{
+  "login-page": {
+    "title": "Login",
+    "login": "Login",
+    "email": "Email",
+    "password": "Password",
+    "reset-password": "Reset Password",
+    "sign-in": "Sign In",
+    "dont-have-an-account": "Don't have an account?",
+    "create": "Create!"
+  }
+}

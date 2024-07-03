@@ -1,0 +1,12 @@
+{
+  "duration": "mm:ss",
+  "time": "HH:mm",
+  "date": "dd.MM.yyyy",
+  "date-and-time": "dd.MM.yyyy HH:mm",
+  "month-and-date": "dd.MM",
+  "formatted-duration": {
+    "short": "{months, plural, =0 {} other {#мес}} {days, plural, =0 {} other {#д}} {hours, plural, =0 {} other {#ч}} {minutes, plural, =0 {} other {#мин}} {seconds, plural, =0 {} other {#с}}",
+    "long": "{months, plural, =0 {} one {# месяц} few {# месяца} other {# месяцев}} {days, plural, =0 {} one {# день} few {# дня} other {# дней}} {hours, plural, =0 {} one {# час} few {# часа} other {# часов}} {minutes, plural, =0 {} one {# минута} few {# минуты} other {# минут}} {seconds, plural, one {# секунда} few {# секунды} other {# секунд}}"
+
+  }
+}

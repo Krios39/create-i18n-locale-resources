@@ -1,0 +1,12 @@
+{
+  "duration": "mm:ss",
+  "time": "hh:mm aaa",
+  "date": "MM.dd.yyyy",
+  "date-and-time": "MM.dd.yyyy hh:mm aaa",
+  "month-and-date": "MM.dd",
+  "formatted-duration": {
+    "short": "{months, plural, =0 {} other {#mo}} {days, plural, =0 {} other {#d}} {hours, plural, =0 {} other {#h}} {minutes, plural, =0 {} other {#m}} {seconds, plural, =0 {} other {#s}}",
+    "long": "{months, plural, =0 {} other {# months}} {days, plural, =0 {} other {# days}} {hours, plural, =0 {} other {# hours}} {minutes, plural, =0 {} other {# minutes}} {seconds, plural, other {# seconds}}"
+
+  }
+}

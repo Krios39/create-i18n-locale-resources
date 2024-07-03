@@ -1,0 +1,12 @@
+{
+  "login-page": {
+    "title": "Авторизация",
+    "login": "Авторизация",
+    "email": "Почта",
+    "password": "Пароль",
+    "reset-password": "Восстановить Пароль",
+    "sign-in": "Войти",
+    "dont-have-an-account": "Нет аккаунта?",
+    "create": "Создать!"
+  }
+}

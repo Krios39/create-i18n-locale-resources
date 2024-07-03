@@ -1,0 +1,7 @@
+{
+  "admin": "Admin",
+  "manager": "Manager",
+  "supervisor": "Supervisor",
+  "hosted-client": "Hosted Client",
+  "read-only": "Read Only"
+}

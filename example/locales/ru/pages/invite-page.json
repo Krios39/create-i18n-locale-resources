@@ -1,0 +1,13 @@
+{
+  "invite-page": {
+    "title": "Invite",
+    "create-an-account": "Create an Account",
+    "email": "Email",
+    "password": "Password",
+    "confirm-password": "Confirm Password",
+    "company": "Company",
+    "get-started": "Get Started!",
+    "already-have-account": "Already have account?",
+    "sign-in": "Sign In"
+  }
+}
