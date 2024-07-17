@@ -1,3 +1,5 @@
+// #!/usr/bin/env node
+
 I18nManager = require('./i18n-manager');
 
 const args = process.argv.slice(2);

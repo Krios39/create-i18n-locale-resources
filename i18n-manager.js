@@ -54,7 +54,7 @@ class I18nManager {
     }
 
     #getResourcesContent = (locales) => {
-        const typesImports = "import { Language, Translation } from './types.ts';\n";
+        const typesImports = "import { Language, Translation } from './types';\n";
 
         const getResourcesImports = (locales) =>
             locales.map((locale) => `import { resources${locale.toUpperCase()} } from './resources/${locale}';\n`).join('');
@@ -62,7 +62,7 @@ class I18nManager {
         const getResources = () =>
             '\nexport const resources: Translation = {\n' +
             locales.map((locale) => `  [Language.${locale.toUpperCase()}]: resources${locale.toUpperCase()},\n`).join('') +
-            '}\n';
+            '};\n';
         return this.#thisFileGenerateTitle + typesImports + getResourcesImports(locales) + getResources();
     };
 

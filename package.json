@@ -1,10 +1,13 @@
 {
   "name": "create-i18n-locale-resources",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "description": "create-i18n-locale-resources",
   "main": "index.js",
   "directories": {
     "example": "example"
+  },
+  "bin": {
+    "create-i18n-locale-resources": "./index.js"
   },
   "scripts": {
     "start": "node index.js",
