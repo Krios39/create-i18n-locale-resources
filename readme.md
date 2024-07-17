@@ -1,0 +1,1 @@
+create-i18n-locale-resources
