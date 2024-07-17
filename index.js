@@ -1,4 +1,4 @@
-// #!/usr/bin/env node
+#!/usr/bin/env node
 
 I18nManager = require('./i18n-manager');
 

@@ -1,6 +1,6 @@
 {
   "name": "create-i18n-locale-resources",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "create-i18n-locale-resources",
   "main": "index.js",
   "directories": {
