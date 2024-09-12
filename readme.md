@@ -58,6 +58,8 @@ then you run the command
 
 `create-i18n-locale-resources --path path-for-directory-with-locales-subdirectory`
 
+you can also add a `-not-types` flag if you doesn't want to create NS types
+
 and after this you get next directory structure
 ```
 ├───locales
