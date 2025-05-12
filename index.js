@@ -11,7 +11,7 @@ const args = process.argv.slice(2);
 const pathArgKey = '--path'
 const pathIndex = args.indexOf(pathArgKey)
 
-const defaultBasePath = './example'
+const defaultBasePath = '.examples/module-locale-example'
 const path = args[pathIndex + 1]
 
 if (pathIndex !== -1 && path === undefined) {

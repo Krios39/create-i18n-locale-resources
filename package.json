@@ -4,7 +4,7 @@
   "description": "create-i18n-locale-resources",
   "main": "index.js",
   "directories": {
-    "example": "example"
+    "example": "examples/module-locale-example"
   },
   "bin": {
     "create-i18n-locale-resources": "./index.js"
