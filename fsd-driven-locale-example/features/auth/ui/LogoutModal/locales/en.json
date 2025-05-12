@@ -1,0 +1,6 @@
+{
+  "logout-confirmation": "Logout Confirmation",
+  "are-you-sure": "Are you sure you want to log out? Note, all running sessions will continue to be active even after logout",
+  "cancel": "Cancel",
+  "log-out": "Log Out"
+}

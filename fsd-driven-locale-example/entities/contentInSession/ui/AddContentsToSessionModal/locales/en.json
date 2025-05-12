@@ -1,0 +1,16 @@
+{
+  "title": "Adding Content",
+  "search-by-title": "Search by Title",
+  "content-format": "Content Format",
+  "all": "All",
+  "cancel": "Cancel",
+  "add": "Add",
+  "placeholders": {
+    "no-content": "No Content",
+    "you-have-no-content": "Unfortunately, you don't have any content available to add to the session.",
+    "go-to-add-content": "Go to Add Content",
+    "nothing-was-found": "Nothing was found",
+    "nothing-was-found-for-query": "Unfortunately, nothing was found for your query",
+    "go-back-to-all-contents": "Go back to the list of all contents"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Тарифная сетка",
+  "cancel": "Отмена",
+  "proceed-to-payment": "Перейти к оплате",
+  "headsets-days": "Шлемы \\ Дни",
+  "days-range": "{min}-{max} {max, plural, few {дня} other {дней}}",
+  "headsets-range": "{min, select, 1 {< 10 шлемов} 51 {> 50 шлемов} other {{min}-{max} шлемов}}",
+  "price": "{value, number, ::currency/RUB precision-integer}/шлем",
+  "please-specify": "Пожалуйста, укажите количество шлемов, на которых вы будете одновременно запускать сессии, и количество дней, в течение которых вы хотите иметь доступ к функционалу запуска сессий на VR-шлемах",
+  "number-of-headsets": "Кол-во шлемов",
+  "number-of-days": "Кол-во дней",
+  "total": "Итого к оплате: {price, select, undefined {Не удалось рассчитать сумму} other {{numberOfHeadsets} шл. × {price, number, ::currency/RUB precision-integer}/шл. = {total, number, ::currency/RUB precision-integer}}}",
+  "more-days-less-price": "Больше дней, меньше цена!",
+  "your-benefit": "Ваша выгода для выбранного количества дней составляет {benefit, number, ::currency/RUB precision-integer}"
+}

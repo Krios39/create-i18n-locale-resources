@@ -1,0 +1,7 @@
+{
+  "headset-session-status": {
+    "all": "All",
+    "in-session": "In Session",
+    "not-in-session": "Not In Session"
+  }
+}

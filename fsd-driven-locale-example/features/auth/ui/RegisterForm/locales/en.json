@@ -1,0 +1,9 @@
+{
+  "email": "Email",
+  "password": "Password",
+  "confirm-password": "Confirm Password",
+  "already-have-account": "Already have an account? <Link>Log in</Link>",
+  "by-clicking": "By clicking the “Register” button, you confirm that you have read and agree to the <a>Personal Data Processing Policy</a>.",
+  "register": "Register",
+  "back": "Back"
+}

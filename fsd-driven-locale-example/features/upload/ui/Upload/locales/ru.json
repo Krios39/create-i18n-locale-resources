@@ -1,0 +1,7 @@
+{
+  "click-or-drag": "Нажмите или перетащите файл в эту область для загрузки",
+  "done": "Готово!",
+  "uploading": "Идёт загрузка{progress, select, undefined {...} other { {progress, number, ::percent}}}",
+  "file-format": "Файл должен быть в формате: {allowedExtensions}",
+  "cancel": "Отмена"
+}

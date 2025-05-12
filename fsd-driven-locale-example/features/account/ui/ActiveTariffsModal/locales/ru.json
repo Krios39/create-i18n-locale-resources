@@ -1,0 +1,5 @@
+{
+  "title": "Запущенные тарифы",
+  "tariff-info-tem": "С {startedAt, date, short}г. по {finishedAt, date, short}г. вам будет доступен запуск сессий на кол-ве шлемов = {numberOfHeadsets} шт.",
+  "ok": "Понятно"
+}

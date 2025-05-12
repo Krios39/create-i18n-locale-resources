@@ -1,0 +1,21 @@
+{
+  "title": "Adding Headsets",
+  "search-by-title-token": "Search by Title or Token",
+  "headset-title": "Headset Title",
+  "token": "Token",
+  "charge": "Charge",
+  "free-space": "Free Space",
+  "online": "Online",
+  "offline": "Offline",
+  "session-id": "Session ID",
+  "cancel": "Cancel",
+  "add": "Add",
+  "placeholders": {
+    "no-headsets": "No Headsets",
+    "you-have-no-headsets": "Unfortunately, you don't have any headsets available to add to the session.",
+    "go-to-add-headsets": "Go to Add Headsets",
+    "nothing-was-found": "Nothing was found",
+    "nothing-was-found-for-query": "Unfortunately, nothing was found for your query",
+    "go-back-to-all-headsets": "Go back to the list of all headsets"
+  }
+}

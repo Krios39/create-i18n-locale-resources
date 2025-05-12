@@ -1,0 +1,7 @@
+{
+  "title": "Out of Memory!",
+  "total-size": "Total size of the added content: {totalSize}.",
+  "not-enough-memory": "There is not enough memory on the helmets to download the selected content.",
+  "headsets-list": "Headsets that don't have enough memory:",
+  "ok": "Ok"
+}

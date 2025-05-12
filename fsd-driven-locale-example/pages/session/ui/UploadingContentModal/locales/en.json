@@ -1,0 +1,12 @@
+{
+  "title": "Uploading Content on Headset",
+  "headset-title": "Headset Title:",
+  "uploaded-content": "Uploaded Content:",
+  "uploaded-contents-count": "{uploaded} of {total}",
+  "content-title": "Title",
+  "format": "Format",
+  "resolution": "Resolution",
+  "duration": "Duration",
+  "uploading-content": "Uploading Content",
+  "ok": "Ok"
+}

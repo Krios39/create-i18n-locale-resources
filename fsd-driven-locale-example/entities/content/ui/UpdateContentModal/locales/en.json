@@ -1,0 +1,10 @@
+{
+  "title": "Content Editing",
+  "url": "<title>URL:</title> <value>{url}</value>",
+  "content-title": "Title",
+  "content-format": "Content Format",
+  "cover-url": "Cover URL",
+  "supported-extensions": "Supported content extensions: MP4, AVI, MOV, PNG, JPEG, JPG",
+  "cancel": "Cancel",
+  "save": "Save"
+}

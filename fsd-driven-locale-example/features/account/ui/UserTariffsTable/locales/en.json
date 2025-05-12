@@ -1,0 +1,15 @@
+{
+  "max-number-of-headset": "Max. number of headsets in sessions",
+  "number-of-days": "Number of days",
+  "tariff-paid": "Tariff paid",
+  "tariff-activated": "Tariff activated",
+  "tariff-will-end": "Tariff will end",
+  "tariff-activation": "Tariff activation",
+  "activate-tariff": "Activate Tariff",
+  "date-format": "{date, time, short}, {date, date, short}",
+  "placeholders": {
+    "no-paid-tariffs": "No Paid Tariffs",
+    "no-single-tariff": "You don't have a single tariff available to launch.",
+    "go-to-payment": "Go to the selection and payment of the tariff"
+  }
+}

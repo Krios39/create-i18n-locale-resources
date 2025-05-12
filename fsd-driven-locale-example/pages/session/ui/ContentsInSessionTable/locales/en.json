@@ -1,0 +1,16 @@
+{
+  "title": "Contents in Session",
+  "add-content": "Add Content",
+  "content-title": "Content Title",
+  "format": "Format",
+  "resolution": "Resolution",
+  "file-size": "File Size",
+  "duration": "Duration",
+  "play": "Play",
+  "pause": "Pause",
+  "delete-content": "Delete Content",
+  "placeholders": {
+    "no-contents-in-session": "There are no contents in the session",
+    "add-content": "Add content to the session and it will be displayed on this page"
+  }
+}

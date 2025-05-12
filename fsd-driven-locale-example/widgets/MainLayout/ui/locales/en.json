@@ -1,0 +1,8 @@
+{
+  "active-sessions": "Active Sessions",
+  "content-library": "Content library",
+  "headsets": "Headsets",
+  "go-to-tariffs": "Go to Tariffs",
+  "remaining-time": "{days, select, 0 {} undefined {} other {{days} d.}} {hours, select, 0 {} undefined {} other {{hours} h.}} {minutes, select, 0 {} undefined {} other {{minutes} m.}} {seconds, select, 0 {} undefined {} other {{seconds} s.}}",
+  "headsets-number": "{headsets} hdst."
+}

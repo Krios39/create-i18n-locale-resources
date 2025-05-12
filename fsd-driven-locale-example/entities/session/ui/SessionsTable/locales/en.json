@@ -1,0 +1,19 @@
+{
+  "session-id": "Session ID",
+  "session-title": "Session Name",
+  "number-of-headsets": "Number of Headsets",
+  "running-content": "Running Content",
+  "options": "Options",
+  "delete-session": "Delete Session",
+  "placeholders": {
+    "nothing-was-found": "Nothing was found",
+    "no-session-were-found": "Unfortunately, no sessions were found for your query.",
+    "go-back-to-all-sessions": "Go back to the list of all sessions",
+    "no-active-sessions": "No active sessions",
+    "create-session": "Create a session and it will be displayed on this page",
+    "no-paid-tariff": "You don't have a paid tariff",
+    "no-single-tariff": "You don't have a single tariff available to launch.",
+    "to-access-the-launch": "To access the launch of sessions on headsets,",
+    "select-tariff": "select the tariff you need and activate it"
+  }
+}

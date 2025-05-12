@@ -1,0 +1,15 @@
+{
+  "headset-title": "Название шлема",
+  "token": "Токен",
+  "charge": "Заряд",
+  "free-space": "Свободная память",
+  "content": "Контент",
+  "uploading-content": "Загрузка контента",
+  "uploaded-contents-count": "{uploaded} из {total}",
+  "volume": "Громкость",
+  "delete-headset": "Удалить Шлем",
+  "placeholders": {
+    "no-headsets-in-session": "В сессии нет шлемов",
+    "add-headset": "Добавьте шлем в сессию и он отобразится на этой странице"
+  }
+}

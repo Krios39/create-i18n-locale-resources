@@ -1,0 +1,9 @@
+{
+  "title": "Tariff Activation",
+  "are-you-sure": "Are you sure you want to activate a tariff? After the activation, you will not be able to pause it.",
+  "important": "Important! Several tariffs can be activated at the same time. The validity period of such tariffs does not add up. The total number of available headsets is made up of all currently running tariffs.",
+  "you-want-activate": "You want to activate the tariff: <ul><li>The maximum number of headsets in sessions = {numberOfHeadsets} pcs.</li><li>Number of days = {numberOfDays}</li></ul>",
+  "tariff-info-tem": "From {startedAt, date, short} to {finishedAt, date, short}, you will be able to activate sessions on the number of headsets = {numberOfHeadsets} psc.",
+  "cancel": "Cancel",
+  "activate-tariff": "Activate Tariff"
+}

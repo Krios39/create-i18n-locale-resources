@@ -1,0 +1,5 @@
+{
+  "title": "Activated Tariffs",
+  "tariff-info-tem": "From {startedAt, date, short} to {finishedAt, date, short}, you will be able to activate sessions on the number of headsets = {numberOfHeadsets} psc.",
+  "ok": "Ok"
+}

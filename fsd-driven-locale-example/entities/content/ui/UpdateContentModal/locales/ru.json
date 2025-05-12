@@ -1,0 +1,10 @@
+{
+  "title": "Редактирование контента",
+  "url": "<title>URL:</title> <value>{url}</value>",
+  "content-title": "Название",
+  "content-format": "Формат контента",
+  "cover-url": "URL обложки",
+  "supported-extensions": "Поддерживаемые расширения контента: MP4, AVI, MOV, PNG, JPEG, JPG",
+  "cancel": "Отмена",
+  "save": "Сохранить"
+}

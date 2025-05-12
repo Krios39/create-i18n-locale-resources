@@ -1,0 +1,8 @@
+{
+  "title": "Редактирование шлема",
+  "headset-token": "<grayText>Токен шлема:</grayText> {token}",
+  "headset-title": "Название шлема",
+  "cancel": "Отмена",
+  "save": "Сохранить",
+  "unlink-headset": "Отвязать шлем от аккаунта"
+}

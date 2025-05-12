@@ -1,0 +1,94 @@
+{
+  "ERR_NETWORK": "No internet connection",
+  "field-required": "The field is required",
+  "invalid-email": "Invalid Email address",
+  "incorrect-url": "The URL is incorrect",
+  "incorrect-time": "Incorrect Time",
+  "cant-rewind": "You can't rewind that far",
+  "invalid-integer": "The number must be an integer",
+  "invalid-number": "The value must be a number",
+  "string": {
+    "max": "The number of characters should not exceed {max}"
+  },
+  "password": {
+    "min": "The password must contain at least {min} characters",
+    "invalid": "The password must contain uppercase and lowercase Latin letters, numbers and special characters",
+    "not-match": "Passwords don't match"
+  },
+  "content": {
+    "min": "The number of contents must be more than {min}",
+    "image-duration": {
+      "more": "The duration must be greater than {more} seconds"
+    }
+  },
+  "user": {
+    "number-of-days": {
+      "min": "The number of days must be more than {min}",
+      "max": "The number of days must be less than {max}"
+    }
+  },
+  "headset": {
+    "min": "The number of headsets must be more than {min}"
+  },
+
+  "0": "Something went wrong",
+  "1": "Something went wrong",
+  "2": "Something went wrong",
+  "3": "User not authorized",
+  "4": "The password must contain at least 8 characters",
+  "5": "Invalid email or password",
+  "6": "To add headsets to a session, you must activate a tariff plan",
+  "7": "The maximum number of headsets for the current tariff has been exceeded. You cannot add more headsets to the session",
+  "8": "To end the session, you need to activate the tariff plan",
+  "9": "To end the session, you must stop uploading content to the headsets",
+  "10": "To create a session, you need to activate the tariff plan",
+  "11": "To reset a session, you must activate the tariff plan",
+  "12": "To reset a session, it must have active content in the status of playing/paused",
+  "13": "To manage the session state, you must activate the tariff plan",
+  "14": "Content in session, not yet uploaded to headsets",
+  "15": "To edit a session, you must activate the tariff plan",
+  "16": "To manage content uploads to headsets in a session, you must activate a tariff plan",
+  "17": "User not found",
+  "18": "The user already exists",
+  "19": "Purchased user tariff not found",
+  "20": "The tariff for activation was not found, as it may have already been activated",
+  "21": "The new password must be different from the previous password",
+  "22": "Current user password is not correct",
+  "23": "The session already exists",
+  "24": "Session not found",
+  "25": "It is not possible to pause content that is not running",
+  "26": "The headset charge should be in the range of 0 to 100",
+  "27": "The volume of the headset should be in the range of 0 to 100",
+  "28": "Headsets do not have enough memory to download content",
+  "29": "Headset not found",
+  "30": "The headset already exists",
+  "31": "Cannot manage a session if no headsets are added to it",
+  "32": "No headset has been added to the session",
+  "33": "Content not found",
+  "34": "No access to the link to the transmitted content",
+  "35": "Failed to retrieve meta information about content from the link",
+  "36": "Content has already been added to the session",
+  "37": "You can only change the duration for images",
+  "38": "It is not possible to delete a content card because the content is running in a session",
+  "39": "Content added to the session was not found",
+  "40": "The content playback position must be unique",
+  "41": "Content is not in session, it is not possible to manage it",
+  "42": "You cannot add a negative number of days to the tariff",
+  "43": "You cannot add a negative number of headsets per tariff",
+  "44": "The tariff start date cannot be greater than the end date",
+  "45": "The password must contain uppercase and lowercase Latin letters,",
+  "46": "The password must contain numbers",
+  "47": "The password must contain special characters",
+  "48": "The user's email is not confirmed",
+  "49": "The user is blocked",
+  "50": "Access to the main site application is closed to employees",
+  "51": "Media content already exists",
+  "52": "You cannot unlink a headset on which content is being loaded",
+  "53": "To manage headset synchronization in a session, you must activate a tariff plan",
+  "54": "To manage content rewinding on headsets in a session, you must activate a tariff plan",
+  "55": "To create a session, you must activate a tariff plan",
+  "56": "The device is already linked to another user",
+  "57": "An incorrect code has been entered or the code has expired, generate a new code",
+  "58": "There is no access to the preview link for media content",
+  "59": "Preview content can only be downloaded from the VRVR storage"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "Registration",
+  "password-rules": "<p>Please note that the password must contain:</p><ul><li>8 or more characters</li><li>uppercase and lowercase Latin letters</li><li>special characters (! \" # $ % & ' ( ) * + , - . / : ; < = > ? @ [  ] ^ _` { | } ~)</li><li>numbers</li></ul>",
+  "ready": "Ready!",
+  "click-log-in": "You have successfully registered in the system! Click “Log in” to proceed to authorization",
+  "log-in": "Log in"
+}

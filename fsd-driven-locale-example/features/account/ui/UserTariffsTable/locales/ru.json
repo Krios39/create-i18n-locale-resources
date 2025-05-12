@@ -1,0 +1,15 @@
+{
+  "max-number-of-headset": "Макс. кол-во шлемов в сессиях",
+  "number-of-days": "Кол-во дней",
+  "tariff-paid": "Тариф оплачен",
+  "tariff-activated": "Тариф запущен",
+  "tariff-will-end": "Тариф закончится",
+  "tariff-activation": "Запуск тарифа",
+  "activate-tariff": "Запустить тариф",
+  "date-format": "{date, time, short} {date, date, short}г",
+  "placeholders": {
+    "no-paid-tariffs": "Нет оплаченных тарифов",
+    "no-single-tariff": "У вас нет ни одного тарифа, доступного к запуску.",
+    "go-to-payment": "Перейти к выбору и оплате тарифа"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Uploading Content",
+  "content-title": "Title",
+  "url": "URL",
+  "content-format": "Content Format",
+  "cover-url": "Cover URL",
+  "choose-cover": "Choose a Cover (optional)",
+  "drag-content": "Drag the content here or select a file",
+  "available-storage": "You have {available} of storage available to you",
+  "supported-extensions": "Supported content extensions: MP4, AVI, MOV, PNG, JPEG, JPG",
+  "cancel": "Cancel",
+  "save": "Save",
+  "warning-modal": {
+    "title": "Close Window?",
+    "if-you-click": "If you click Close, all unsaved changes will be lost.",
+    "stay": "Stay",
+    "close": "Close"
+  }
+}

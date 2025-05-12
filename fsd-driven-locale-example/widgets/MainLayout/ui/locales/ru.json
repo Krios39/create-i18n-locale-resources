@@ -1,0 +1,8 @@
+{
+  "active-sessions": "Активные сессии",
+  "content-library": "Библиотека контента",
+  "headsets": "Шлемы",
+  "go-to-tariffs": "Перейти к тарифам",
+  "remaining-time": "{days, select, 0 {} undefined {} other {{days} д.}} {hours, select, 0 {} undefined {} other {{hours} ч.}} {minutes, select, 0 {} undefined {} other {{minutes} м.}} {seconds, select, 0 {} undefined {} other {{seconds} с.}}",
+  "headsets-number": "{headsets} шл."
+}

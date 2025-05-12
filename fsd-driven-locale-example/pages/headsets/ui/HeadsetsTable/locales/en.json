@@ -1,0 +1,18 @@
+{
+  "headset-title": "Headset Title",
+  "token": "Token",
+  "volume": "Volume",
+  "charge": "Charge",
+  "free-space": "Free Space",
+  "session-id": "Session ID",
+  "online-offline": "Online/Offline",
+  "online": "Online",
+  "offline": "Offline",
+  "placeholders": {
+    "nothing-was-found": "Nothing was found",
+    "no-headset-were-found": "Unfortunately, no headsets were found for your query.",
+    "go-back-to-all-sessions": "Go back to the list of all headsets",
+    "no-headsets": "No headsets",
+    "add-headsets": "Add headsets and they will be available on this page"
+  }
+}

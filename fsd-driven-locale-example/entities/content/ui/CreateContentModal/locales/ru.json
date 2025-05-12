@@ -1,0 +1,17 @@
+{
+  "title": "Загрузка контента",
+  "content-title": "Название",
+  "url": "URL",
+  "content-format": "Формат контента",
+  "cover-url": "URL обложки",
+  "available-storage": "Вам доступно {available} в хранилище",
+  "supported-extensions": "Поддерживаемые расширения контента: MP4, AVI, MOV, PNG, JPEG, JPG",
+  "cancel": "Отмена",
+  "save": "Сохранить",
+  "warning-modal": {
+    "title": "Закрыть окно?",
+    "if-you-click": "Если вы нажмете “Закрыть”, все несохраненные изменения будут потеряны.",
+    "stay": "Остаться",
+    "close": "Закрыть"
+  }
+}

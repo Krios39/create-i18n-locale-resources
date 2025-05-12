@@ -1,0 +1,7 @@
+{
+  "click-or-drag": "Click or drag file to this area to upload",
+  "done": "Done!",
+  "uploading": "Uploading{progress, select, undefined {...} other { {progress, number, ::percent}}}",
+  "file-format": "The file must be in the format: {allowedExtensions}",
+  "cancel": "Cancel"
+}

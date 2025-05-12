@@ -1,0 +1,12 @@
+{
+  "title": "Загрузка контента на шлем",
+  "headset-title": "Название шлема:",
+  "uploaded-content": "Загружено контента:",
+  "uploaded-contents-count": "{uploaded} из {total}",
+  "content-title": "Название",
+  "format": "Формат",
+  "resolution": "Разрешение",
+  "duration": "Длительность",
+  "uploading-content": "Загрузка контента",
+  "ok": "Понятно"
+}

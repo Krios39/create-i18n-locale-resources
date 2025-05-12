@@ -1,0 +1,15 @@
+{
+  "title": "The Tariff Grid",
+  "cancel": "Cancel",
+  "proceed-to-payment": "Proceed to Payment",
+  "headsets-days": "Headsets \\ Days",
+  "days-range": "{min}-{max} days",
+  "headsets-range": "{min, select, 1 {< 10 headsets} 51 {> 50 headsets} other {{min}-{max} headsets}}",
+  "price": "{value, number, ::currency/RUB precision-integer}/headset",
+  "please-specify": "Please specify the number of headsets on which you will run sessions at the same time, and the number of days during which you want to have access to the session launch functionality on VR Headsets",
+  "number-of-headsets": "Number of Headsets",
+  "number-of-days": "Number of Days",
+  "total": "Total: {price, select, undefined {Unable to calculate the total.} other {{numberOfHeadsets} headsets × {price, number, ::currency/RUB precision-integer}/headset = {total, number, ::currency/RUB precision-integer}}}",
+  "more-days-less-price": "More days, less price!",
+  "your-benefit": "Your benefit for the selected number of days is {benefit, number, ::currency/RUB precision-integer}"
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Deleting Content",
+  "are-you-sure": "Are you sure you want to delete content {content}?",
+  "if-you-delete": "If you delete this content, it will be automatically deleted from the sessions to which it was added and from the headsets to which this content was uploaded.",
+  "content-added-to-sessions": "Content added to sessions:",
+  "cancel": "Cancel",
+  "delete": "Delete"
+}

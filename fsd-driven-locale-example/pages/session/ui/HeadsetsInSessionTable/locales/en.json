@@ -1,0 +1,15 @@
+{
+  "headset-title": "Headset Title",
+  "token": "Token",
+  "charge": "Charge",
+  "free-space": "Free Space",
+  "content": "Content",
+  "uploading-content": "Uploading Content",
+  "uploaded-contents-count": "{uploaded} of {total}",
+  "volume": "Volume",
+  "delete-headset": "Delete Headset",
+  "placeholders": {
+    "no-headsets-in-session": "There are no headsets in the session",
+    "add-headset": "Add headset to the session and it will be displayed on this page"
+  }
+}

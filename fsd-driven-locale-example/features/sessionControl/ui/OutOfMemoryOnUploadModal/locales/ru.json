@@ -1,0 +1,9 @@
+{
+  "title": "Не хватает памяти!",
+  "total-size": "Общий размер {triggeredOnUpload, select, true {загружаемого} other {добавляемого}} контента: {totalSize}.",
+  "not-enough-memory": "На шлемах не хватает памяти для загрузки {triggeredOnUpload, select, true {всего} other {выбранного}} контента.",
+  "free-up-memory": "Необходимо освободить память на шлемах или удалить часть загружаемого контента.",
+  "headsets-list": "Шлемы, на которых не хватает памяти:",
+  "free-space": "свободная память: {freeSpace}",
+  "ok": "Понятно"
+}

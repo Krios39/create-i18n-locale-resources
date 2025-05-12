@@ -1,0 +1,10 @@
+{
+  "title": "Content library",
+  "search-by-name": "Search by name",
+  "search-result": "Search results for \"{searchValue}\"",
+  "no-content": "There is no content",
+  "upload-content-displayed": "Upload the content and it will be displayed on this page",
+  "nothing-was-found": "Nothing was found",
+  "nothing-was-found-for-query": "Unfortunately, nothing was found for your query",
+  "go-back-to-all-contents": "Go back to the list of all contents"
+}

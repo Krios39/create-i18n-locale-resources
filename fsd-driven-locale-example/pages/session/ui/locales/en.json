@@ -1,0 +1,13 @@
+{
+  "title": "Session",
+  "back": "Back",
+  "session-id": "Session ID: ",
+  "delete-session": "Delete Session",
+  "player": "Player",
+  "headsets": "Headsets",
+  "contents": "Contents",
+  "add-contents": "Add Contents",
+  "add-headsets": "Add Headsets",
+  "addition-not-available": "The addition is not available because the maximum number of headsets has already been added to the session. To add a new headset, delete one of the previously added ones.",
+  "end-session": "End Session"
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Editing the Headset",
+  "headset-token": "<grayText>Headset Token:</grayText> {token}",
+  "headset-title": "Headset Title",
+  "cancel": "Cancel",
+  "save": "Save",
+  "unlink-headset": "Unlink the Headset from Account"
+}

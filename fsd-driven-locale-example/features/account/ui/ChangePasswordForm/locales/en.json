@@ -1,0 +1,9 @@
+{
+  "current-password": "Current Password",
+  "new-password": "New Password",
+  "confirm-new-password": "Confirm New Password",
+  "save": "Save",
+  "ready": "Ready!",
+  "your-password-changed": "Your password has been successfully changed, please use a new password the next time you log in",
+  "ok": "Ok"
+}

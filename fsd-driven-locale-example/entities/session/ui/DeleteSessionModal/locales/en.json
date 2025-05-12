@@ -1,0 +1,7 @@
+{
+  "title": "Deleting Session",
+  "are-you-sure": "Are you sure you want to delete the session {sessionId}?",
+  "if-you-delete-session": "Please note that if you delete the session, all the content that was uploaded to the headsets in this session will be deleted from them automatically",
+  "cancel": "Cancel",
+  "delete-session": "Delete Session"
+}

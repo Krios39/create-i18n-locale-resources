@@ -1,0 +1,18 @@
+{
+  "headset-title": "Название шлема",
+  "token": "Токен",
+  "volume": "Громкость",
+  "charge": "Заряд",
+  "free-space": "Свободная память",
+  "session-id": "ID сессии",
+  "online-offline": "В сети/Не в сети",
+  "online": "В сети",
+  "offline": "Не в сети",
+  "placeholders": {
+    "nothing-was-found": "Ничего не найдено",
+    "no-headset-were-found": "К сожалению, по вашему запросу не найдено ни одного шлема",
+    "go-back-to-all-sessions": "Вернуться к списку всех шлемов",
+    "no-headsets": "Нет шлемов",
+    "add-headsets": "Добавьте шлемы и они будут доступны на этой странице"
+  }
+}

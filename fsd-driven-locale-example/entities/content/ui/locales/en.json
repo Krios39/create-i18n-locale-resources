@@ -1,0 +1,27 @@
+{
+  "title": "Title",
+  "preview": "Preview",
+  "url": "URL",
+  "format": "Format",
+  "duration": "Duration",
+  "resolution": "Resolution",
+  "storage": "Storage",
+  "size": "Size",
+  "remove-content": "Remove Content",
+  "edit-content": "Edit Content",
+  "add-content": "Add content from your storage",
+  "upload-content": "Upload content to the VrVr storage",
+  "content-format": {
+    "2D": "2D Video",
+    "3D": "360° Video",
+    "Video 180": "180° Video",
+    "Image": "Image",
+    "Image 180": "180° Image",
+    "Image 360": "360° Image"
+  },
+  "source-of-storage": {
+    "Хранилище VRVR": "VRVR Storage",
+    "Внешнее хранилище": "External Storage",
+    "all": "All"
+  }
+}

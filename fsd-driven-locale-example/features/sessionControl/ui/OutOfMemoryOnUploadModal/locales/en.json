@@ -1,0 +1,9 @@
+{
+  "title": "Out of Memory!",
+  "total-size": "Total size of the {triggeredOnUpload, select, true {uploaded} other {added}} content: {totalSize}.",
+  "not-enough-memory": "There is not enough memory on the helmets to download {triggeredOnUpload, select, true {all the} other {the selected}} content.",
+  "free-up-memory": "It is necessary to free up the memory on the headsets or delete some of the uploaded content.",
+  "headsets-list": "Headsets that don't have enough memory:",
+  "free-space": "free space: {freeSpace}",
+  "ok": "Ok"
+}
